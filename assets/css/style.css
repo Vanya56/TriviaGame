@@ -30,7 +30,7 @@ body {
     background: #08038c;
     border-radius: 20px;
     margin: 10px 0 10px 0;
-    color: #f6f6f6;
+    color: yellow;
 }
 .option {
     width: 470px;
@@ -67,7 +67,7 @@ body {
     font-size: 75px;
 }
 .option input:checked .option {
-    background: #000000
-    color: black
+    background: #000000;
+    color: black;
     
 }
